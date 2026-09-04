@@ -1,0 +1,9 @@
+[1mdiff --git a/app.js b/app.js[m
+[1mindex 41a2b4b..ceda60a 100644[m
+[1m--- a/app.js[m
+[1m+++ b/app.js[m
+[36m@@ -1,2 +1,2 @@[m
+[31m-// add new feature - button[m
+[32m+[m[32m// add new feature - form[m
+ //this is my JS file[m
+\ No newline at end of file[m
